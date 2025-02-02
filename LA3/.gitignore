@@ -1,0 +1,5 @@
+.env
+venv/
+db_config.txt
+db.properties
+*.jar
