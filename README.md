@@ -1,6 +1,6 @@
 # Database Management Systems Lab Spring 2024-25
 
-## Team: PREQUEL
+## Team: PRQL
 
 1. 22CS10030 - [Harshit Jain](https://github.com/harshit-jain52)
 2. 22CS10049 - [Nived Shah](https://github.com/Nived04)
